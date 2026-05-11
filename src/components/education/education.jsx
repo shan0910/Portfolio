@@ -72,10 +72,10 @@ export default function Education(){
                             <img src={tech} className="e-img" />
                         </div>
                     <div className="e-desc">
-                    I am currently pursuing my studies at the National Institute of Technology, Raipur,
-                     where I am an active member of the Management team of the Sahyog Club.
-                      I have maintained an average CGPA of 8.10 over the first seven semesters and am eager 
-                      to advance my career in the near future.
+                  I graduated from the National Institute of Technology, Raipur, 
+                        where I served as an active member of the Management Team of the Sahyog Club.
+                        During my time there, I maintained a CGPA of 8.10.
+                        I am currently working as a Software Developer and am eager to grow professionally in the years ahead.
                     </div>
                     </div>
                     </div>

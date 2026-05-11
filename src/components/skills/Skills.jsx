@@ -45,7 +45,7 @@ export default function Skills(){
                 </div> 
                 <div className="resume-link">
                     <h4 style={{color:darkMode ? "white" : "black"}}>This is a link to my resume</h4>
-                    <a href="https://drive.google.com/file/d/1zU3pBy_PEDpzTjws3RwACC3iPUDp9E0Y/view?usp=sharing" style={{color:darkMode ? "white" : "black"}}>Click here and Explore!!!</a>
+                    <a href="https://drive.google.com/file/d/1R_aA3REqqTOSCbEm9QzY19xvkK_RiNUw/view?usp=sharing" style={{color:darkMode ? "white" : "black"}}>Click here and Explore!!!</a>
                 </div> 
             </div>
             </Fade>
